@@ -14,7 +14,7 @@ El paquete incluye algunos pasos por defecto como:
 |--|--|
 | ``GameObjectStep`` | Activa o desactiva un game object. |
 | ``AnimationStep`` | Pone una animación de un Animator. |
-| ``WaitStep`` | Espera un tiempo antes de continuar con la cadena. |
+| ``WaitStep`` | Espera unos segundos antes de continuar con la cadena. |
 | ``WaitForButtonStep`` | Espera a que un usuario pulse un botón para continuar. |
 
 # Crear tipos de Step
